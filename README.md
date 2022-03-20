@@ -1,4 +1,4 @@
-# pytthon-template-replacement
+# python-template-replacement
 ## 模板替换
 需要安装python库支持 
 >pip install python-docx
